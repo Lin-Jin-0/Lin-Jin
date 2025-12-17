@@ -1,3 +1,4 @@
+林金央视,#genre#
 CCTV-1,http://t.061899.xyz/tl/tl.php?id=cctv1
 CCTV-2,http://t.061899.xyz/tl/tl.php?id=cctv2
 CCTV-3,http://t.061899.xyz/tl/tl.php?id=cctv3
